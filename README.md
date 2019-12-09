@@ -27,7 +27,7 @@
 
 11조. [중고 거래 경매 사이트 '팔다'](https://github.com/connect-foundation/2019-11)
 
-12조. [🎟 BookUs - 이벤트를 손쉽게 주최하고, 등록하는 서비스](https://github.com/connect-foundation/2019-12)
+12조. [🎟 BookUs - 급증하는 트래픽에도 안정적인 예약 서비스, Atomic Pattern을 적용한 재사용 가능한 컴포넌트, 실용적인 Testing 을 주제로 하는 이벤트 서비스](https://github.com/connect-foundation/2019-12)
 
 13조. [🐥 교육용 블록 코딩 The Duck (Scratch clone) 더덕이랑 코딩할래?](https://github.com/connect-foundation/2019-13)
 
